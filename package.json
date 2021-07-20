@@ -1,15 +1,14 @@
 {
   "author": {
-    "name": "Philip Skinner",
-    "email": "me@philip-skinner.co.uk",
-    "url": "https://github.com/PhilipSkinner"
+    "name": "Chelmsford Beer & Cider Festivals",
+    "url": "https://github.com/ChelmsfordBeer"
   },
   "bin": {
     "cwddrive": "./bin/cwddrive.js",
     "makerunnable": "./bin/makerunnable.js"
   },
   "bugs": {
-    "url": "https://github.com/PhilipSkinner/windows/issues"
+    "url": "https://github.com/ChelmsfordBeer/windows/issues"
   },
   "dependencies": {
     "jasmine": "^3.1.0"
@@ -20,13 +19,13 @@
   "devDependencies": {
     "jasmine" : "3.1.0"
   },
-  "homepage": "https://github.com/PhilipSkinner/windows",
+  "homepage": "https://github.com/ChelmsfordBeer/windows",
   "main": "index.js",
   "name": "windows",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:PhilipSkinner/windows.git"
+    "url": "git@github.com:ChelmsfordBeer/windows.git"
   },
   "scripts" :{
     "test" : "jasmine"
@@ -44,5 +43,5 @@
     "drive alias",
     "windows sdk"
   ],
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
